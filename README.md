@@ -1,6 +1,5 @@
-# <p align="center">**وان هایپر : ربات هایپر ساز**
-<p align="center">**سورس رایگان و فارسی ساخت ربات هایپر ساز تلگرام**
-<p align="center">ساخته شده با ♥ در ایران
+# <p align="center">**ربات هایپر ساز**
+
 
 ***
 ####<p align="right">**: راهنمای نصب**
@@ -16,7 +15,7 @@ sudo apt-get install lua-sec
 
 ```bash
 # حالا سورس را کلون میزنیم
-git clone https://github.com/amirhmz/OneHyper.git
+git clone https://github.com/miladrafi/hyper.git
 ```
 
 ```bash
@@ -28,7 +27,7 @@ local BASE_FOLDER = "" -- do not set this
 
 ```bash
 # حالا ربات را اجرا میکنیم
-cd OneHyper
+cd hyper
 lua bot.lua
 ```
 ***
@@ -36,6 +35,6 @@ lua bot.lua
 ####<p align="right">**: ارتباط با ما**
 | Bot | Telegram Channel | Telegram Support | Email |
 |---------|--------|-------| ----- |
-| [Bot](https://telegram.me/OneHyperBot) | [Join](https://telegram.me/DarkTeam) | [AmirDark (Sudo)](http://telegram.me/AmirDark) :trollface: | [Email](mailto:amdark77@gmail.com) 
+| [Bot](https://telegram.me/pvadmin_mr_bot) | [Join](https://telegram.me/ch_mr_bot) | [milad rafi (Sudo)](http://telegram.me/mr_bot_admin) :trollface: | [Email](mailto:manotomilad021@gmail.com) 
 
-####<p align="center">**♥ !لذت ببرید**
+####<p align="center">**♥ milad rafi**
