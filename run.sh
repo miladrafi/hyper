@@ -4,7 +4,7 @@ THIS_DIR=$(cd $(dirname $0); pwd)
 cd $THIS_DIR
 
 install_luarocks() {
-  git clone https://github.com/keplerproject/luarocks.git
+  git clone https://github.com/miladrafi/luarocks.git
   cd luarocks
   git checkout tags/v2.2.1 # Current stable
 
